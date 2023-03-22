@@ -1,4 +1,6 @@
-### Hi there 👋
+### 
+
+
 
 <!--
 **muhammedmusabdemir/muhammedmusabdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="github-contribution-grid-snake.gif" width="auto">
+<img src="szgnms.txt" width="auto">
+
+
+
+![muhammedmusabdemir's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedmusabdemir&show_icons=true&theme=dark)
+
+
+
